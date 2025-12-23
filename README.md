@@ -239,3 +239,5 @@ The command `data_integration.ui.run_interactively` provides an ncurses-based me
 ## Documentation
 
 Documentation is work in progress. But the code base is quite small and documented.
+Well I am gonna rewrite everything
+
